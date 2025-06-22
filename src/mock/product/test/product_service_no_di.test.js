@@ -5,7 +5,7 @@ jest.mock("../product_client.js");
 
 //단위테스트 서로 모듈간의 상호작용 테스트하면 안됨
 //딱 그 단위 테스트하나만해야함
-
+//9.20금 다시 시작
 describe("ProductService", () => {
   let productService;
 
